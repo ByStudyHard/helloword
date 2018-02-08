@@ -1,5 +1,4 @@
-# helloword
-read the guide
+# Hello-Word
 
 Hi Humans!
 
